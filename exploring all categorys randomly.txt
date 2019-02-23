@@ -1,0 +1,6 @@
+AVProductStatesIdentifier 3/8 are useful
+EngineVersion   1/8 are useful
+SmartScreen 1/8 are useful
+Processor < 1/8 are useful
+Census_PowerPlatformRoleName 1/16 are useful
+Census_ActivationChannel 1/20 are useful
